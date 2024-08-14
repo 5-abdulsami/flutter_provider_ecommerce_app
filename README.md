@@ -1,16 +1,39 @@
-# flutter_ecommerce_app
+# ShoeStore - Flutter E-commerce App
 
-A new Flutter project.
+ShoeStore is a stylish and efficient e-commerce application built with Flutter, focusing on shoes for men, women, and kids. The app offers a seamless shopping experience with its elegant UI and robust functionality.
+Features
 
-## Getting Started
+## Extensive Product Catalog: 
+  Browse through a wide range of shoes for men, women, and kids.
+## Intuitive Navigation: 
+  Utilizes a persistent bottom tab bar for easy access to main sections.
+## Product Details: 
+  View comprehensive information about each product, including title, description, price, and available sizes.
+## Shopping Cart: 
+  Add products to cart, modify quantities, and remove items as needed.
+## Favorites: 
+  Save preferred items for quick access later.
+## Advanced Filtering: 
+  Filter products based on gender, price range, brands, and categories.
+## Responsive Design: 
+Elegant UI that adapts to different screen sizes.
 
-This project is a starting point for a Flutter application.
+# Screens
 
-A few resources to get you started if this is your first Flutter project:
+## Main Screen:
+  Displays featured products and categories.
+## Categories Screen:
+  Shows all available product categories.
+## Product Screen:
+  Detailed view of individual products.
+## Cart Screen:
+  Manages items added to the shopping cart.
+## Favorites Screen:
+  Lists all products marked as favorites.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technical Details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Framework: Flutter
+## State Management: Provider
+## Data Storage: Product information stored in JSON files for easy management and updates.
+## Navigation: Persistent bottom tab bar for seamless user experience.
