@@ -1,0 +1,566 @@
+[
+    {
+        "id": "a",
+        "name": "Stylish Runners",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://i5.walmartimages.com/asr/54718730-414a-49f1-a882-24fdcdb26744.42e9e03d74226a1b62e31c3f281d9cff.jpeg",
+            "https://i5.walmartimages.com/asr/54718730-414a-49f1-a882-24fdcdb26744.42e9e03d74226a1b62e31c3f281d9cff.jpeg"
+        ],
+        "oldPrice": "99.00",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            },
+            {
+                "size": "8.0",
+                "isSelected": false
+            },
+            {
+                "size": "8.5",
+                "isSelected": false
+            },
+            {
+                "size": "9.0",
+                "isSelected": false
+            },
+            {
+                "size": "9.5",
+                "isSelected": false
+            }
+        ],
+        "price": "59.00",
+        "description": "Stylish and fancy Runners for Kids",
+        "title": "Stylish Runners with exquisite comfort and fashion"
+    },
+    {
+        "id": "b",
+        "name": "NDure Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-GB-Site/Sites-master/en/dw73b44b0a/38SUI0001_080_01.jpg",
+            "https://image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-GB-Site/Sites-master/en/dw73b44b0a/38SUI0001_080_01.jpg"
+        ],
+        "oldPrice": "109.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "89.00",
+        "description": "Step up with these cool NDure classic sneakers",
+        "title": "NDure Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "c",
+        "name": "Salomon Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://i5.walmartimages.com/asr/252a28e9-126a-43ac-b59c-2decfe1b2c7c.d805961b1e3737dbee1f4b7cbed1e01e.jpeg",
+            "https://i5.walmartimages.com/asr/252a28e9-126a-43ac-b59c-2decfe1b2c7c.d805961b1e3737dbee1f4b7cbed1e01e.jpeg"
+        ],
+        "oldPrice": "89.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "69.00",
+        "description": "Step up with these cool Salomon classic sneakers",
+        "title": "Salomon Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "d",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://clipground.com/images/sneaker-png-8.png",
+            "https://www.downloadclipart.net/large/shoe-png-free-download.png"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "e",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse1.mm.bing.net/th?id=OIP.FIxK3EzaoSTjjMXQntpPigHaEI&pid=Api&P=0&h=180",
+            "https://tse1.mm.bing.net/th?id=OIP.FIxK3EzaoSTjjMXQntpPigHaEI&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "f",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse1.mm.bing.net/th?id=OIP.W9t9nLRz-3fPj3kg1RWwPwHaEX&pid=Api&P=0&h=180",
+            "https://tse1.mm.bing.net/th?id=OIP.W9t9nLRz-3fPj3kg1RWwPwHaEX&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "g",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse1.mm.bing.net/th?id=OIP.QZ24h9uM0XPvz23agwDxOQHaHa&pid=Api&P=0&h=180",
+            "https://tse1.mm.bing.net/th?id=OIP.QZ24h9uM0XPvz23agwDxOQHaHa&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "h",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse1.mm.bing.net/th?id=OIP.EvGWibecfKitHUxzkMACDwAAAA&pid=Api&P=0&h=180",
+            "https://tse1.mm.bing.net/th?id=OIP.EvGWibecfKitHUxzkMACDwAAAA&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "i",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse3.mm.bing.net/th?id=OIP.TgapDp2LewpR8jtxFznuKgHaE7&pid=Api&P=0&h=180",
+            "https://tse3.mm.bing.net/th?id=OIP.TgapDp2LewpR8jtxFznuKgHaE7&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "j",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5799.png",
+            "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5799.png"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "k",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse1.mm.bing.net/th?id=OIP.c4hTW2uimprI85BdDZWKzQHaHa&pid=Api&P=0&h=180",
+            "https://tse1.mm.bing.net/th?id=OIP.c4hTW2uimprI85BdDZWKzQHaHa&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    },
+    {
+        "id": "l",
+        "name": "Air Jordan Sneakers",
+        "category": "Kids Shoes",
+        "imageUrl": [
+            "https://tse3.mm.bing.net/th?id=OIP.4HZNaoJuGSs8KYhBeNWcfwHaEP&pid=Api&P=0&h=180",
+            "https://tse3.mm.bing.net/th?id=OIP.4HZNaoJuGSs8KYhBeNWcfwHaEP&pid=Api&P=0&h=180"
+        ],
+        "oldPrice": "129.00",
+        "sizes": [
+            {
+                "size": "4.0",
+                "isSelected": false
+            },
+            {
+                "size": "4.5",
+                "isSelected": false
+            },
+            {
+                "size": "5.0",
+                "isSelected": false
+            },
+            {
+                "size": "5.5",
+                "isSelected": false
+            },
+            {
+                "size": "6.0",
+                "isSelected": false
+            },
+            {
+                "size": "6.5",
+                "isSelected": false
+            },
+            {
+                "size": "7.0",
+                "isSelected": false
+            },
+            {
+                "size": "7.5",
+                "isSelected": false
+            }
+        ],
+        "price": "109.00",
+        "description": "Step up with these cool Air Jordan classic sneakers",
+        "title": "Air Jordan Sneakers with decent style and lasting durability"
+    }
+]
