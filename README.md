@@ -1,39 +1,46 @@
 # ShoeStore - Flutter E-commerce App
 
+![Main Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/main_screen.jpg)
+![Category Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/kids_category.jpg)
+![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/favorites_screen.jpg)
+![Cart Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/cart_screen.jpg)
+![Filter Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/filter_screen.jpg)
+
+
 ShoeStore is a stylish and efficient e-commerce application built with Flutter, focusing on shoes for men, women, and kids. The app offers a seamless shopping experience with its elegant UI and robust functionality.
 Features
 
-## Extensive Product Catalog: 
+### Extensive Product Catalog: 
   Browse through a wide range of shoes for men, women, and kids.
-## Intuitive Navigation: 
+### Intuitive Navigation: 
   Utilizes a persistent bottom tab bar for easy access to main sections.
-## Product Details: 
+### Product Details: 
   View comprehensive information about each product, including title, description, price, and available sizes.
-## Shopping Cart: 
+### Shopping Cart: 
   Add products to cart, modify quantities, and remove items as needed.
-## Favorites: 
+### Favorites: 
   Save preferred items for quick access later.
-## Advanced Filtering: 
+### Advanced Filtering: 
   Filter products based on gender, price range, brands, and categories.
-## Responsive Design: 
+### Responsive Design: 
 Elegant UI that adapts to different screen sizes.
 
 # Screens
 
-## Main Screen:
+### Main Screen:
   Displays featured products and categories.
-## Categories Screen:
+### Categories Screen:
   Shows all available product categories.
-## Product Screen:
+### Product Screen:
   Detailed view of individual products.
-## Cart Screen:
+### Cart Screen:
   Manages items added to the shopping cart.
-## Favorites Screen:
+### Favorites Screen:
   Lists all products marked as favorites.
 
-## Technical Details
+# Technical Details
 
-## Framework: Flutter
-## State Management: Provider
-## Data Storage: Product information stored in JSON files for easy management and updates.
-## Navigation: Persistent bottom tab bar for seamless user experience.
+### Framework: Flutter
+### State Management: Provider
+### Data Storage: Product information stored in JSON files for easy management and updates.
+### Navigation: Persistent bottom tab bar for seamless user experience.
