@@ -1,6 +1,6 @@
 # ShoeStore - Flutter E-commerce App
 
-<img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/raw/main/assets/screenshots/main_screen.jpg" alt="Main Screen" width="50" height="100"/>
+<img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/raw/main/assets/screenshots/main_screen.jpg" alt="Main Screen" width="150" height="350"/>
 
 ![Category Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/kids_category.jpg?raw=true)
 ![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/favorites_screen.jpg?raw=true)
