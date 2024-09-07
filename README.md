@@ -2,7 +2,7 @@
 
 ![Main Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/main_screen.jpg?raw=true)
 ![Category Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/kids_category.jpg?raw=true)
-![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/favourites_screen.jpg?raw=true)
+![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/favorites_screen.jpg?raw=true)
 ![Cart Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/cart_screen.jpg?raw=true)
 ![Filter Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/filter_screen.jpg?raw=true)
 
