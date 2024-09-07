@@ -8,7 +8,6 @@
   <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/filter_screen.jpg?raw=true" alt="Filter Screen" width="150" height="300"/>
 </div>
 <br>
-<br>
 
 **ShoeStore** is a stylish and efficient e-commerce application built with Flutter, focusing on shoes for men, women, and kids. The app offers a seamless shopping experience with its elegant UI and robust functionality.
 
