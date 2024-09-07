@@ -1,10 +1,10 @@
 # ShoeStore - Flutter E-commerce App
 
 ![Main Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/main_screen.jpg?raw=true)
-![Category Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/kids_category.jpg)
-![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/favorites_screen.jpg)
+![Category Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/kids_category.jpg?raw=true)
+![Favorites Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/favourites_screen.jpg?raw=true)
 ![Cart Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/cart_screen.jpg?raw=true)
-![Filter Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/assets/screenshots/filter_screen.jpg)
+![Filter Screen](https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/filter_screen.jpg?raw=true)
 
 
 ShoeStore is a stylish and efficient e-commerce application built with Flutter, focusing on shoes for men, women, and kids. The app offers a seamless shopping experience with its elegant UI and robust functionality.
