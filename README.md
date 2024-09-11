@@ -4,7 +4,7 @@
   <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/raw/main/assets/screenshots/main_screen.jpg" alt="Main Screen" width="200" height="350"/>
   <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/kids_category.jpg?raw=true" alt="Category Screen" width="200" height="350"/>
   <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/favorites_screen.jpg?raw=true" alt="Favorites Screen" width="200" height="350"/>
-  <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/cart_screen.jpg?raw=true" alt="Cart Screen" width="200" height="350"/>
+  <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/cart_screen.jpg?raw=true" alt="Cart Screen" width="200" height="350"/>
   <img src="https://github.com/5-abdulsami/flutter_provider_ecommerce_app/blob/main/assets/screenshots/filter_screen.jpg?raw=true" alt="Filter Screen" width="200" height="350"/>
 </div>
 <br>
